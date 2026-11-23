@@ -10,5 +10,6 @@ function testGreen() {
 	assert.equal(parseInt(sayHello('test').substring(2, 4)), 32)
 }
 
+echo $FLAG
 testWho('foo')
 testGreen()

@@ -3,7 +3,7 @@
 	"version": "1.0.0",
 	"description": "Level 2",
 	"license": "ISC",
-	"author": "John",
+	"author": "john",
 	"type": "commonjs",
 	"main": "index.js",
 	"scripts": {
